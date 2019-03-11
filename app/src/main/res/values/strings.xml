@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bucket List</string>
+    <string name="titleHint">Title:</string>
+    <string name="descriptionHint">Description:</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="new_bucketitem_button">Add Bucketlist Item</string>
+</resources>
